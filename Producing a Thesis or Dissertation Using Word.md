@@ -65,7 +65,7 @@ Based on the open educational resources from the [University of Edinburgh](https
 - Tracking changes.
 
 # Session 3
-- Cross-referencing, so referencing different parts of your document within the same document.
+- Cross-referencing (referencing different parts of your document within the same document).
 - Adding footnotes to your document.
 - Inserting chapter files into your final document.
 - Inserting a table of contents and modifying the table of contents.
