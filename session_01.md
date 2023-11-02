@@ -1,0 +1,14 @@
+# Session 1
+- Direct formatting versus styles.
+- Style panel.
+- h1, h2, h3 examples.
+- Advantages of styles over direct formatting:
+	- quick to apply
+	- consistent
+	- easy to change
+	- styles provide other features - use of navigation pane
+- Modifying styles - font style and size, alignment, etc.
+- Use of the format menu in the styles, such as indentation and spacing in heading styles.
+- Creating a new style - predefined formatting - creating a new for a style and what to do with subsequent styles.
+- Applying numbered headings (multilevel list).
+- Modifying numbered headings.
