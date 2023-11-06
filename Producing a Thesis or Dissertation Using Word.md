@@ -1,6 +1,13 @@
 Based on the open educational resources from the [University of Edinburgh](https://open.ed.ac.uk/producing-a-thesis-or-dissertation-using-word/)
 
 # Learning outcomes
+At the end of this series, you should be able to:
+- Identify the formatting regulations required for written work at research degree level.
+- Decide on an accessible formatting style.
+- Structure a document using formatting features.
+- Create content, such as tables, images, captions, lists and references.
+- Document changes to files using the review function.
+- Combine multiple files into a single document.
 
 
 # Outline
