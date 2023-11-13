@@ -23,7 +23,12 @@ To switch on the non-printing characters, navigate to 'File', 'Options' and 'Dis
 
 
 ### All about styles (applying, modifying and creating your own).
+As you can see from the document, the text has been produced in the Arial font, 11 point. Some of the text has been formatted in bold to indicate titles and headings for sections. It is possible to edit a document using the basic options in the toolbar, such as bold, italic and underline. This is known as direct formatting. It is possible to make these changes to the document manually, but there are a number of reasons why you might want to take a different approach. The first is that a long document is likely to include a lot of direct formatting, so changing the appearance of headings and titles individually is very time consuming. The second is that this type of formatting is not necessarily _semantic_, which means that it carries more information about the text that just a presentational difference. Word's styles are a way of adding more information about the structure of the document. When we use a Heading 1 style in Word, not only does the text look different, but that text is also encoded as a heading. This becomes important later on when we want to create a list of sections in a document, or use the outline view to summarise the structure.
+
+
 ### The navigation pane.
+
+
 ### Numbered headings.
 
 - Direct formatting versus styles.
