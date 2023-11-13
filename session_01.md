@@ -35,4 +35,4 @@ In a dissertation or thesis, it is likely that you will use several headings. Wo
 ### Numbered headings.
 Although heading styles are numbered, it is the appearance of the heading and not the number that indicates its position in the hierarchy. Using the Multilevel List function in the Paragraph group allows the author to add a numbered prefix to the heading. Sub-headings follow this numbering system by adding another number, and so on. For example, the third sub-section under section two would be numbered 2.3. The first section below that sub-heading would be numbered 2.3.1. It is also possible to modify numbered headings. For example, if you would prefer to indicate chapters in your document, you can use the word 'Prefix' followed by the number: 'Chapter 1 Introduction'.
 
-
+[Session 2](https://github.com/matthewsillence/ptduw/blob/main/session_02.md)
