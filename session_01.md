@@ -12,6 +12,9 @@ It is inevitable that you will produce different versions of sections of your th
 
 Version control is helpful, but it does not prevent you losing data. This will depend on the storage location. It is useful to store the versions of files in multiple locations rather than on the hard drive of your device or in one medium, such as a memory stick or external hard drive. The most secure option is the University's OneDrive, which you can access on different devices. This often allows you to autosave your work as you make changes. Periodically, however, you may wish to take a snapshot of files using the [Windows backup feature](https://support.microsoft.com/en-us/windows/back-up-your-windows-pc-87a81f8a-78fa-456e-b521-ac0560e32338) or the [Mac OS Time Machine feature](https://support.apple.com/en-gb/HT201250) and save this backup to another location, such as an external hard drive.
 
+### Sample Files
+This module contains several sample files to practice with. These have been created specifically for this module using the [Google Bard](https://bard.google.com/chat) generative AI tool and are not examples of work submitted for a research degree. They may contain inaccurate information. The quality of the writing and the academic content of these files is not the focus of this module. Their purpose is solely to demonstrate formatting and design features of Microsoft Word. 
+
 
 - Direct formatting versus styles.
 - Style panel.
