@@ -15,6 +15,16 @@ Version control is helpful, but it does not prevent you losing data. This will d
 ### Sample Files
 This module contains several sample files to practice with. These have been created specifically for this module using the [Google Bard](https://bard.google.com/chat) generative AI tool and are not examples of work submitted for a research degree. They may contain inaccurate information. The quality of the writing and the academic content of these files is not the focus of this module. Their purpose is solely to demonstrate formatting and design features of Microsoft Word. 
 
+## Formatting your document:
+### How to view non-printing characters.
+Let's start with our first sample file 'bard_thesis.docx'. Download this to your device and open the file using your Microsoft Word desktop application rather than the web application. When the file is opened, you will see that that it contains some basic formatting which makes it legible, such as lines between the paragraphs. However, Word only displays certain characters - those that will be appear on the printed page. If you want to check the structure of the document more closely, you will need to switch on the 'non-printing characters', which include symbols that indicate how spaces are used.
+
+To switch on the non-printing characters, navigate to 'File', 'Options' and 'Display', and select all of the formatting marks listed, then click 'OK'. You should now see symbols for tab characters, spaces, and paragraph marks. If you just want to view paragraph marks, you can also click on the pilcrow icon in the 'Paragraph' section of the toolbar. Fun fact: the pilcrow is an obscure name for the paragraph mark, and was used to indicate a change in thought in medieval manuscripts.
+
+
+### All about styles (applying, modifying and creating your own).
+### The navigation pane.
+### Numbered headings.
 
 - Direct formatting versus styles.
 - Style panel.
