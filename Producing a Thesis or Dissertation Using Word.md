@@ -11,7 +11,7 @@ At the end of this series, you should be able to:
 
 
 # Outline
-## Session 1
+## [Session 1](https://github.com/matthewsillence/ptduw/blob/main/session_01.md)
 - Before you start writing:
   	- The University's thesis regulations.
   	- Planning your document.
@@ -22,7 +22,7 @@ At the end of this series, you should be able to:
   	- The navigation pane.
   	- Numbered headings.
 
-## Session 2
+## [Session 2](https://github.com/matthewsillence/ptduw/blob/main/session_02.md)
 - Page layout:
 	- Changing page margins.
 	- Headers, footers and page numbers.
@@ -35,7 +35,7 @@ At the end of this series, you should be able to:
  	- Captions.
 	- Track changes.
 
-## Session 3
+## [Session 3](https://github.com/matthewsillence/ptduw/blob/main/session_03.md)
 - References:
 	- How to add footnotes and endnotes.
 	- Cross-references.
@@ -44,37 +44,3 @@ At the end of this series, you should be able to:
 	- How to combine separate chapters into a single document.
 	- Inserting an automatic table of contents.
 	- Tables of figures and tables.
-
-# Session 1
-- Direct formatting versus styles.
-- Style panel.
-- h1, h2, h3 examples.
-- Advantages of styles over direct formatting:
-	- quick to apply
-	- consistent
-	- easy to change
-	- styles provide other features - use of navigation pane
-- Modifying styles - font style and size, alignment, etc.
-- Use of the format menu in the styles, such as indentation and spacing in heading styles.
-- Creating a new style - predefined formatting - creating a new for a style and what to do with subsequent styles.
-- Applying numbered headings (multilevel list).
-- Modifying numbered headings.
-
-# Session 2
-- Inserting section breaks.
-- Adding text to the header.
-- Adding text and page numbers to the footer.
-- Changing the headers and footers in different sections.
-- Inserting a landscape page. 
-- Inserting an image in your Word document.
-- The image layout, whether it's inline or floating.
-- Inserting a caption, which can be for your image or it could be for a table or an equation as well.
-- Tracking changes.
-
-# Session 3
-- Cross-referencing (referencing different parts of your document within the same document).
-- Adding footnotes to your document.
-- Inserting chapter files into your final document.
-- Inserting a table of contents and modifying the table of contents.
-- Inserting a table of figures.
-
