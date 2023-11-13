@@ -25,25 +25,14 @@ To switch on the non-printing characters, navigate to 'File', 'Options' and 'Dis
 ### All about styles (applying, modifying and creating your own).
 As you can see from the document, the text has been produced in the Arial font, 11 point. Some of the text has been formatted in bold to indicate titles and headings for sections. It is possible to edit a document using the basic options in the toolbar, such as bold, italic and underline. This is known as direct formatting. It is possible to make these changes to the document manually, but there are a number of reasons why you might want to take a different approach. The first is that a long document is likely to include a lot of direct formatting, so changing the appearance of headings and titles individually is very time consuming. The second is that this type of formatting is not necessarily _semantic_, which means that it carries more information about the text that just a presentational difference. Word's styles are a way of adding more information about the structure of the document. When we use a Heading 1 style in Word, not only does the text look different, but that text is also encoded as a heading. This becomes important later on when we want to create a list of sections in a document, to summarise its structure.
 
-It is possible to change the appearance of the styles that Word offers by opening the style pane and right-clicking on the style you would like to change, then selecting 'Modify'. Using the Formatting section, you can choose the font, colour and size that you prefer. Saving this as an existing style, or a new style, will allow you to apply this to the current document or to future documents.
+It is possible to change the appearance of the styles that Word offers by opening the style pane and right-clicking on the style you would like to change, then selecting 'Modify'. Using the Formatting section, you can choose the font, colour, size and alignment or indentation of the text that you prefer. Saving this as an existing style, or a new style, will allow you to apply this to the current document or to future documents.
 
 ### The navigation pane.
 The navigation pane is a useful feature in Word that works using styles to show the different sections of a document, which can be switched on from the View tab in the toolbar. This feature also allows the author to move the sections of a document around. It is also possible to change the level of a heading by promoting or demoting it. For example, if I want to make a sub-heading into a new section, then I might promote that sub-heading from Heading 2 to Heading 1.
 
-
+In a dissertation or thesis, it is likely that you will use several headings. Word has two default levels of headings to start with, but you can create more to indicate a section hierarchy. For example, Heading 1, Heading 2 and Heading 3. As a general rule, it is worth limiting the hierarchy to three levels. Any more than this is likely to become confusing for both the author and any reader. There are also other ways to signal changes in levels.
 
 ### Numbered headings.
+Although heading styles are numbered, it is the appearance of the heading and not the number that indicates its position in the hierarchy. Using the Multilevel List function in the Paragraph group allows the author to add a numbered prefix to the heading. Sub-headings follow this numbering system by adding another number, and so on. For example, the third sub-section under section two would be numbered 2.3. The first section below that sub-heading would be numbered 2.3.1. It is also possible to modify numbered headings. For example, if you would prefer to indicate chapters in your document, you can use the word 'Prefix' followed by the number: 'Chapter 1 Introduction'.
 
-- Direct formatting versus styles.
-- Style panel.
-- h1, h2, h3 examples.
-- Advantages of styles over direct formatting:
-	- quick to apply
-	- consistent
-	- easy to change
-	- styles provide other features - use of navigation pane
-- Modifying styles - font style and size, alignment, etc.
-- Use of the format menu in the styles, such as indentation and spacing in heading styles.
-- Creating a new style - predefined formatting - creating a new for a style and what to do with subsequent styles.
-- Applying numbered headings (multilevel list).
-- Modifying numbered headings.
+
