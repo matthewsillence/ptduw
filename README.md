@@ -1,5 +1,5 @@
 # Producing a Thesis or Dissertation Using Word
-[Video Introduction](https://echo360.org.uk/public/media/c8d1e1e9-c6c7-4106-a832-f5c3e69b6c58)
+[Video Introduction](https://echo360.org.uk/public/media/c8d1e1e9-c6c7-4106-a832-f5c3e69b6c58){:target="_blank"}
 
 ## Overview
 This is an open educational resource based on the the course materials created by the [University of Edinburgh](https://open.ed.ac.uk/producing-a-thesis-or-dissertation-using-word/), released under [CC-BY licence](https://creativecommons.org/licenses/by/4.0/). The module is being adapted from this resource for the Personal and Professional Development programme at the University of East Anglia, and will be available in late autumn 2023.
