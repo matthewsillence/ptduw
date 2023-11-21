@@ -22,6 +22,7 @@ Let's start with our first sample file 'bard_thesis.docx'. Download this to your
 To switch on the non-printing characters, navigate to 'File', 'Options' and 'Display', and select all of the formatting marks listed, then click 'OK'. You should now see symbols for tab characters, spaces, and paragraph marks. If you just want to view paragraph marks, you can also click on the pilcrow icon in the 'Paragraph' section of the toolbar. Fun fact: the pilcrow is an obscure name for the paragraph mark, and was used to indicate a change in thought in medieval manuscripts.
 
 [Word for Windows](https://support.microsoft.com/en-au/office/show-or-hide-tab-marks-in-word-84a53213-5d02-404a-b022-09cae1a3958b)
+
 [Word for MacOS](https://support.microsoft.com/en-au/office/show-or-hide-tab-marks-in-word-84a53213-5d02-404a-b022-09cae1a3958b#ID0EBBD=macOS)
 
 
@@ -30,18 +31,18 @@ As you can see from the document, the text has been produced in the Arial font, 
 
 It is possible to change the appearance of the styles that Word offers by opening the style pane and right-clicking on the style you would like to change, then selecting 'Modify'. Using the Formatting section, you can choose the font, colour, size and alignment or indentation of the text that you prefer. Saving this as an existing style, or a new style, will allow you to apply this to the current document or to future documents.
 
-[Word for Windows](https://support.microsoft.com/en-us/office/customize-or-create-new-styles-d38d6e47-f6fc-48eb-a607-1eb120dec563)
+[Word for Windows and MacOS](https://support.microsoft.com/en-us/office/customize-or-create-new-styles-d38d6e47-f6fc-48eb-a607-1eb120dec563)
 
 ### The navigation pane.
 The navigation pane is a useful feature in Word that works using styles to show the different sections of a document, which can be switched on from the View tab in the toolbar. This feature also allows the author to move the sections of a document around. It is also possible to change the level of a heading by promoting or demoting it. For example, if I want to make a sub-heading into a new section, then I might promote that sub-heading from Heading 2 to Heading 1.
 
 In a dissertation or thesis, it is likely that you will use several headings. Word has two default levels of headings to start with, but you can create more to indicate a section hierarchy. For example, Heading 1, Heading 2 and Heading 3. As a general rule, it is worth limiting the hierarchy to three levels. Any more than this is likely to become confusing for both the author and any reader. There are also other ways to signal changes in levels.
 
-[Word for Windows](https://support.microsoft.com/en-us/office/use-the-navigation-pane-in-word-394787be-bca7-459b-894e-3f8511515e55)
+[Word for Windows and MacOS](https://support.microsoft.com/en-us/office/use-the-navigation-pane-in-word-394787be-bca7-459b-894e-3f8511515e55)
 
 ### Numbered headings.
 Although heading styles are numbered, it is the appearance of the heading and not the number that indicates its position in the hierarchy. Using the Multilevel List function in the Paragraph group allows the author to add a numbered prefix to the heading. Sub-headings follow this numbering system by adding another number, and so on. For example, the third sub-section under section two would be numbered 2.3. The first section below that sub-heading would be numbered 2.3.1. It is also possible to modify numbered headings. For example, if you would prefer to indicate chapters in your document, you can use the word 'Prefix' followed by the number: 'Chapter 1 Introduction'.
 
-[Word for Windows](https://support.microsoft.com/en-us/office/number-your-headings-ce24e028-4cb4-4d4a-bf25-fb2c61fc6585)
+[Word for Windows and MacOS](https://support.microsoft.com/en-us/office/number-your-headings-ce24e028-4cb4-4d4a-bf25-fb2c61fc6585)
 
 [Session 2](https://github.com/matthewsillence/ptduw/blob/main/session_02.md)
