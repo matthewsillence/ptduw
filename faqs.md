@@ -60,3 +60,11 @@ To delete a file from OneDrive online, you can follow these steps:
 [Delete files or folders in OneDrive - Microsoft Support](https://support.microsoft.com/en-us/office/delete-files-or-folders-in-onedrive-21fe345a-e488-4fa7-932b-f053c1bebe8a).
 
 [How to Delete Files and Folders in Microsoft OneDrive](https://www.howtogeek.com/750283/how-to-delete-files-and-folders-in-microsoft-onedrive/).
+
+## What is the split-screen 'comapre' feature in Microsoft Word?
+
+The split screen compare feature in Microsoft Word is a way to view and compare two documents side by side. To use this feature, you need to open both of the files that you want to compare. Then, on the View tab, in the Window group, click View Side by Side. To scroll both documents at the same time, click Synchronous Scrolling in the Window group on the View tab. If you don't see Synchronous Scrolling, click Window on the View tab, and then click Synchronous Scrolling. Note that this option is available in recent versions of Word.
+
+### Links
+[View and compare documents side by side - Microsoft Support](https://support.microsoft.com/en-us/office/view-and-compare-documents-side-by-side-52445547-7c07-475b-bb1d-22a98175ef04).
+
