@@ -63,8 +63,8 @@ To delete a file from OneDrive online, you can follow these steps:
 
 ## What is the split-screen 'comapre' feature in Microsoft Word?
 
-The split screen compare feature in Microsoft Word is a way to view and compare two documents side by side. To use this feature, you need to open both of the files that you want to compare. Then, on the View tab, in the Window group, click View Side by Side. To scroll both documents at the same time, click Synchronous Scrolling in the Window group on the View tab. If you don't see Synchronous Scrolling, click Window on the View tab, and then click Synchronous Scrolling. Note that this option is available in recent versions of Word.
+The compare document version feature in Microsoft Word is a way to compare two versions of a document to see how they differ. To use this feature, you need to open both of the files that you want to compare. Then, on the **Review tab**, in the **Compare** group, click **Compare**. Click **Compare two versions of a document (legal blackline)** or **Compare** in the drop-down list. Under **Original document**, browse for the document that you want to use as the original document. Under **Revised document**, browse for the other document that you want to compare. Click **OK**. The documents will be shown side-by-side along with a list of all changes.
 
 ### Links
-[View and compare documents side by side - Microsoft Support](https://support.microsoft.com/en-us/office/view-and-compare-documents-side-by-side-52445547-7c07-475b-bb1d-22a98175ef04).
-
+[Compare and merge two versions of a document - Microsoft Support](https://support.microsoft.com/en-us/office/compare-and-merge-two-versions-of-a-document-f5059749-a797-4db7-a8fb-b3b27eb8b87e).
+[Compare document differences using the legal blackline option.](https://support.microsoft.com/en-us/office/compare-document-differences-using-the-legal-blackline-option-dbfc7351-4022-43a2-a0c4-54d1898702a0).
