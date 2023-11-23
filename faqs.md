@@ -31,7 +31,7 @@ To enable autosave in Microsoft Word, you can open the File tab and select Optio
 
 There is also an app for OneDrive on Windows. You can download and install the Microsoft OneDrive app for PC from the Microsoft Store.
 
-## Links
+### Links
 [How do I turn on AutoSave? - Microsoft Support](https://support.microsoft.com/en-us/office/how-do-i-turn-on-autosave-dbd19b49-ff3a-48f5-8294-671e33a6712c).
 
 [Copying OneDrive Cloud Files to my Local Hard Drive or an External ....](https://answers.microsoft.com/en-us/msoffice/forum/all/copying-onedrive-cloud-files-to-my-local-hard/c815d403-f615-4495-94db-46cf785c47a1).
@@ -39,3 +39,24 @@ There is also an app for OneDrive on Windows. You can download and install the M
 [How to set up automatic backup to OneDrive? - Microsoft Community.](https://answers.microsoft.com/en-us/msoffice/forum/all/how-to-set-up-automatic-backup-to-onedrive/d4c164cb-e3c1-49c4-9206-61239228c084).
 
 [Download the OneDrive App for PC, Mac, Android, or iOS – Microsoft OneDrive.](https://www.microsoft.com/en-us/microsoft-365/onedrive/download).
+
+## How do you delete a file from OneDrive?
+If you are using the OneDrive app on your computer, to delete a file from OneDrive, you can follow these steps:
+
+1. On your taskbar, select File Explorer.
+2. Select your OneDrive folder, select the items you want to delete, and press the Delete key on your keyboard.
+3. Alternatively, you can right-click on the file you want to delete and select "Delete" from the context menu.
+
+If you want to delete a file from OneDrive but keep it on your computer, you can move it out of your OneDrive folder to another folder on your PC that isn’t within OneDrive. Depending on the urgency, you may then want to empty OneDrive’s Recycle Bin online. The other approach is to unlink OneDrive from your computer entirely.
+
+To delete a file from OneDrive online, you can follow these steps:
+
+1. Open the OneDrive website in a web browser and log in to your account.
+2. Find the file or folder you want to delete.
+3. Select each file or folder you want to delete by checking the bubble at the top right corner of the icon.
+4. Click "Delete" in the toolbar at the top of the webpage.
+
+### Links
+[Delete files or folders in OneDrive - Microsoft Support](https://support.microsoft.com/en-us/office/delete-files-or-folders-in-onedrive-21fe345a-e488-4fa7-932b-f053c1bebe8a).
+
+[How to Delete Files and Folders in Microsoft OneDrive](https://www.howtogeek.com/750283/how-to-delete-files-and-folders-in-microsoft-onedrive/).
