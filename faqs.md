@@ -25,3 +25,17 @@ You can also limit the number of versions of a document by customizing the versi
 
 [Change versioning settings of documents in OneDrive for Business.](https://answers.microsoft.com/en-us/msoffice/forum/all/change-versioning-settings-of-documents-in/b88de8b2-f1d6-4044-b9ef-3af81ff5f6d3).
 
+## Do you have any tips regarding using the autosave function please? It appears that whenever I use autosave, the physical copy of the document disappears from my laptop and I can only access/edit it via the online version of Word. Is there a way to keep the physical file on my hard drive and have Microsoft Office create an 'auto backup' on OneDrive?
+
+To enable autosave in Microsoft Word, you can open the File tab and select Options, then click Save and check the box for Autosave or AutoRecover. To keep a physical copy of the document on your laptop and have Microsoft Office create an 'auto backup' on OneDrive, you can store your documents in either OneDrive or in a SharePoint Library, turn on AutoSave to automatically save your work, and share documents by inviting someone to the library, or providing a link rather than sending a discrete copy of the document. You can also limit the number of versions of a document by customizing the versioning settings in OneDrive Online page.
+
+There is also an app for OneDrive on Windows. You can download and install the Microsoft OneDrive app for PC from the Microsoft Store.
+
+## Links
+[How do I turn on AutoSave? - Microsoft Support](https://support.microsoft.com/en-us/office/how-do-i-turn-on-autosave-dbd19b49-ff3a-48f5-8294-671e33a6712c).
+
+[Copying OneDrive Cloud Files to my Local Hard Drive or an External ....](https://answers.microsoft.com/en-us/msoffice/forum/all/copying-onedrive-cloud-files-to-my-local-hard/c815d403-f615-4495-94db-46cf785c47a1).
+
+[How to set up automatic backup to OneDrive? - Microsoft Community.](https://answers.microsoft.com/en-us/msoffice/forum/all/how-to-set-up-automatic-backup-to-onedrive/d4c164cb-e3c1-49c4-9206-61239228c084).
+
+[Download the OneDrive App for PC, Mac, Android, or iOS – Microsoft OneDrive.](https://www.microsoft.com/en-us/microsoft-365/onedrive/download).
