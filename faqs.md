@@ -69,3 +69,5 @@ The compare document version feature in Microsoft Word is a way to compare two v
 [Compare and merge two versions of a document - Microsoft Support](https://support.microsoft.com/en-us/office/compare-and-merge-two-versions-of-a-document-f5059749-a797-4db7-a8fb-b3b27eb8b87e).
 
 [Compare document differences using the legal blackline option.](https://support.microsoft.com/en-us/office/compare-document-differences-using-the-legal-blackline-option-dbfc7351-4022-43a2-a0c4-54d1898702a0).
+
+[Combine document revisions.](https://support.microsoft.com/en-us/office/combine-document-revisions-f8f07f09-4461-4376-b041-89ad67412cfe)
