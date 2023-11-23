@@ -16,8 +16,12 @@ You can also limit the number of versions of a document by customizing the versi
 
 ### Links
 [Use versioning with Word - Microsoft Support](https://support.microsoft.com/en-us/office/use-versioning-with-word-46b4d23f-b032-4837-94ab-746de8fbe6ec).
+
 [Version Control For Microsoft Office Documents](https://answers.microsoft.com/en-us/msoffice/forum/all/version-control-for-microsoft-office-documents/f94a11b1-b849-4152-98b2-ca2d9be26c81).
+
 [View previous versions of Office files - Microsoft Support](https://support.microsoft.com/en-us/office/view-previous-versions-of-office-files-5c1e076f-a9c9-41b8-8ace-f77b9642e2c2).
+
 [How to View and Restore Previous Versions of a Word Document - How-To Geek](https://www.howtogeek.com/724986/how-to-view-and-restore-previous-versions-of-a-word-document/).
+
 [Change versioning settings of documents in OneDrive for Business.](https://answers.microsoft.com/en-us/msoffice/forum/all/change-versioning-settings-of-documents-in/b88de8b2-f1d6-4044-b9ef-3af81ff5f6d3).
 
