@@ -78,7 +78,15 @@ Word is not an ideal application for image management, but many dissertations or
 
 >good quality, high resolution illustrations and diagrams should be used; an illustration should normally appear near the first reference made to it in the text. The desirability of grouping illustrations at the end of the main body of the thesis should be considered if they need to be compared with one another, are referred to frequently in the text, or need to be separate because of their nature, e.g. their size or method of production; every illustration, including appendices and additional material, shall be included in the list of illustrations with page numbers or other identification; each label within an illustration shall be either so positioned that the part it applies to cannot be confused with any other or linked to the part by a thin line. The lettering shall be large enough and clear enough to remain legible if the illustration is reproduced. A legend shall accompany each illustration.
 
-In this example, we will use two example illustrations, which are the portable network graphics (.png) files 'Picture1.png' and 'Picture2.png', which can be downloaded from the GitHub repository. We will add these two files into our document. On page 4 of the document, place the cursor at the start of the first paragraph under the 'Different Types of Academic Writers' Groups' heading. on From the toolbar, click on 'Insert' then 'Pictures', then choose 'This Device' and navigate to the folder containing 'Picture1.png' You should now see a diagram in the text with a small icon on the edge. Clicking on this will provide several Layout Options. Ensure that this is set to 'Square with Text Wrapping'. This will allow the text to sit around the image if it is moved or resized.
+In this example, we will use two example illustrations, which are the portable network graphics (.png) files 'Picture1.png' and 'Picture2.png', which can be downloaded from the GitHub repository. We will add these two files into our document. On page 4 of the document, place the cursor at the start of the first paragraph under the 'Different Types of Academic Writers' Groups' heading. On From the toolbar, click on 'Insert' then 'Pictures', then choose 'This Device' and navigate to the folder containing 'Picture1.png'.
+
+[Word for Windows](https://support.microsoft.com/en-us/office/insert-pictures-3c51edf4-22e1-460a-b372-9329a8724344)
+
+[Word for MacOS](https://support.microsoft.com/en-us/office/insert-pictures-3c51edf4-22e1-460a-b372-9329a8724344#OfficeVersion=macOS)
+
+You should now see a diagram in the text with a small icon on the edge. Clicking on this will provide several Layout Options. Ensure that this is set to 'Square with Text Wrapping'. This will allow the text to sit around the image if it is moved or resized. If you would prefer to fix the image's position on the page, this will create an 'object anchor' that will mean that it does not move as text is added to the page.
+
+[Word for Windows and MacOS](https://support.microsoft.com/en-us/office/wrap-text-and-move-pictures-in-word-becff26a-d1b9-4b9d-80f8-7e214557ca9f)
 
 ### Captions.
 
