@@ -71,15 +71,7 @@ To insert a new table, click on 'Insert' on the toolbar, then 'Table' to define 
 
 When designing your table, please consult the RDPD 3 Regulations, which state the following:
 
->
-if there are relatively few tables, each shall appear as near as possible to the first reference to it in the text. If there are frequent references to tables, or if there are many tables, they may be collected together at the end of the text, possibly as an appendix;
-
-each table shall, if possible, appear complete on one page. A table shall be neither spaced out to fill the available space nor reduced to fit a small space. Tables shall normally be in the same orientation as the main text;
-
-each table shall have a number and title, which may appear above or beneath the table, provided there is a consistent choice throughout the thesis. The number shall precede the title. The title shall describe the content of the table. If a table occupies more than one page, its number shall be given on each page;
-
-the character size used in tables shall be large enough to allow the table to be reproduced without risk to legibility. The presentation of a series of tables shall be consistent in character size, use of space and other typographic treatment.
->
+>if there are relatively few tables, each shall appear as near as possible to the first reference to it in the text. If there are frequent references to tables, or if there are many tables, they may be collected together at the end of the text, possibly as an appendix; each table shall, if possible, appear complete on one page. A table shall be neither spaced out to fill the available space nor reduced to fit a small space. Tables shall normally be in the same orientation as the main text; each table shall have a number and title, which may appear above or beneath the table, provided there is a consistent choice throughout the thesis. The number shall precede the title. The title shall describe the content of the table. If a table occupies more than one page, its number shall be given on each page; the character size used in tables shall be large enough to allow the table to be reproduced without risk to legibility. The presentation of a series of tables shall be consistent in character size, use of space and other typographic treatment.
 
 ### Images.
 Word is not an ideal application for image management, but many dissertations or thesis have - at the very least - diagrams and charts that support the content of the text, illustrate processes or summarise findings. In this section, we will treat all of these as images based on their existence as image files. 
