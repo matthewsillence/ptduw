@@ -35,8 +35,21 @@ Next, click on 'Footer' and select 'Edit Footer'. On page 1 (the odd footer), en
 Please note that the default style for page numbers is Calibri (Body) 12 point. If you would like to change this to match the font of the document text, right click on the page number on page 1 and select a new font. Repeat this process for page 2. The changes will be applied to the whole document. 
 
 ### All about section breaks.
+In Session 1, we saw how Word creates sections using headings, and we can use headings to structure the whole of a document. There are other ways to do this using section breaks. They are a useful way of telling Word to treat parts of your document in different ways. Just as we have seen with the creation of odd and even page numbers, section breaks can be used to create rules for other aspects of the page layout. As we have seen in the example above, we use the page footer to add in text, like pagination, but also other information such as the document title. This could be added to the header and would display on every page in the document. You can try this by clicking on 'Insert' then 'Header' and typing a title into the document, such as 'Academic Writers' Groups'. If you have mirrored your margins, then try to use the alignment method above to ensure these display on the outer edge of the page.
 
+[Word for Windows](https://support.microsoft.com/en-us/office/insert-a-header-or-footer-b87ee4df-abc1-41f8-995b-b39f6d99c7ed)
 
+[Word for MacOS](https://support.microsoft.com/en-us/office/insert-a-header-or-footer-b87ee4df-abc1-41f8-995b-b39f6d99c7ed#ID0EDBD=macOS)
+
+Displaying a document title is useful, but what if we wanted to display the name of the chapter or section of the document in the header instead? This is where section breaks come in. If we have a document that has multiple sections and subsections - like a thesis - then we need to define the sections first, and then create different headers that follow each section.
+
+In the following example, we will focus on three sections in the example thesis. First, scroll down to page 3 and place the cursor just before the heading 'Literature Review'. Now click on 'Layout' in the toolbar, then 'Breaks', and select 'Next Page' under 'Section Breaks'. This will move the text onto the following page. To help you see where the section breaks are located, click on the paragraph mark (pilcrow) icon in the toolbar and scroll back up to page 3, and you should see a line called 'Section Break'.
+
+Next, scroll down to the end of page 5 and put the cursor just before the heading 'Research Methodology'. Insert another section break using the procedure above. Finally, scroll down to page 7 and place the cursor just before the 'Results' heading. Insert another section break. Scroll down to the heading 'Bibliography' and insert a final section break. We now have a document with five sections: pages 1-3, 4-5, 6-7, 8-9 and 10.
+
+Scroll back up to page 1 and in the header, delete any text you have already added and type in 'Introduction'. Align the text to the outer edge of the page if necessary and repeat on page 2 by clicking on 'Next' in the header and footer 'Navigation' section. Click through to the header on page 4 and change the text to 'Literature Review'. Ensure that the 'Link to Previous' button in the toolbar is not selected, then click 'Next'. On page 6, edit the header text again, but this time with 'Research Methodology' and check that the 'Link to Previous' button is not selected. Repeat this process for the next section on page 8, calling this 'Results', and the final section on page 10, calling this 'Bibliography'. Close the header and footer and view your document. The headers should now relate to the relevant section of the document.
+
+[Word for Windows and MacOS](https://support.microsoft.com/en-us/office/configure-headers-and-footers-for-different-sections-of-a-document-94332643-a6e9-46aa-ab29-064f1d356db6)
 
 ### Creating a landscape page within your document.
 
