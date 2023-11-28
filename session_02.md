@@ -13,6 +13,8 @@ Open the file 'bard_thesis.docx'. On the toolbar, click on 'Layout' then 'Margin
 
 Now, click on the 'Multiple Pages' option. If you are printing your document double-sided, then select 'Mirro Margins'. Click on 'OK' to save the new settings. You will notice that the text on page 1 has moved to the right. If you have mirrored the margins, page 2 will have text that has moved to the left. This allows for the 'gutter', which is the extra space on a page that allows for binding.
 
+[Word for Windows and MacOS](https://support.microsoft.com/en-us/office/change-the-margins-in-your-word-document-c95c1ea1-70b1-4dde-a1da-f5aa2042c829)
+
 ### Headers, footers and page numbers.
 
 
