@@ -95,6 +95,7 @@ Any illustrations in a dissertation or thesis require captions, which provides a
 
 [Word for Windows and MacOS](https://support.microsoft.com/en-us/office/add-format-or-delete-captions-in-word-82fa82a4-f0f3-438f-a422-34bb5cef9c81)
 
-You can also apply captions to other objects 
+You can also apply captions to other objects, such as a table. By selecting the table that we have inserted into the example thesis document and right-clicking, you will see the 'Insert Caption' option. To list this as a table rather than as an illustration, click on 'Label' and select 'Table'. 
 
 ### Track changes.
+In Session 1, we considered the matter of versioning of files. 
