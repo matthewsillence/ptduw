@@ -98,4 +98,6 @@ Any illustrations in a dissertation or thesis require captions, which provides a
 You can also apply captions to other objects, such as a table. By selecting the table that we have inserted into the example thesis document and right-clicking, you will see the 'Insert Caption' option. To list this as a table rather than as an illustration, click on 'Label' and select 'Table'. 
 
 ### Track changes.
-In Session 1, we considered the matter of versioning of files. 
+In Session 1, we considered versioning of files. In this final section, we look in more detail at tracking these within a file. By default, Word will not track in-line edits unless this feature is switched on. To do this, click on the 'Review' tab in the toolbar, then click on the 'Track Changes' icon. If you would like to track changes made by other people, such as your supervisor, then select 'For Everyone'. The adjacent panel provides options for viewing these tracked changes. For example, 'All Markup' will allow you to see the original text and the new text at the same time. To try this out, on page 1, delete the first word in the first paragraph ('Academic') and replace this with 'Scholarly'. You should see a call-out bubble appear in the margin and the text will appear in a different colour.
+
+
