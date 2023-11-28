@@ -52,7 +52,9 @@ Scroll back up to page 1 and in the header, delete any text you have already add
 [Word for Windows and MacOS](https://support.microsoft.com/en-us/office/configure-headers-and-footers-for-different-sections-of-a-document-94332643-a6e9-46aa-ab29-064f1d356db6)
 
 ### Creating a landscape page within your document.
+Section breaks are also useful for changing other features of pages in a document. For example, you might need to change the orientation of a page from portait (the default) to landscape. This might be required if a diagram or table is much wider than the portrait layout will allow. We can add a new section break at any point in the document, but to make this simple, we can add one at the end of page 10. Place the cursor at the end of the final line of text on page 10 and insert a section break. With the 'Layout' tab on the toolbar still open, click on 'Orientation' and 'Landscape'. This should change page 11 to landscape without affecting the rest of the document. To revert back to portrait on the following page, insert a new section break a few lines down the page. On the new page 12, change the orientation back to portrait. Notice that a change in orientation will only apply to a single page or set of pages belonging to the same section. If a new section break is not inserted, the landscape orientation will affect all of the following pages.
 
+[Word for Windows and MacOS](https://support.microsoft.com/en-us/office/use-section-breaks-to-change-the-layout-or-formatting-in-one-section-of-your-document-4cdfa638-3ea9-434a-8034-bf1e4274c450)
 
 ### Double-sided printing.
 
