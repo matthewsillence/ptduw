@@ -16,7 +16,21 @@ Now, click on the 'Multiple Pages' option. If you are printing your document dou
 [Word for Windows and MacOS](https://support.microsoft.com/en-us/office/change-the-margins-in-your-word-document-c95c1ea1-70b1-4dde-a1da-f5aa2042c829)
 
 ### Headers, footers and page numbers.
+Although headers and footers are not specifically mentioned in the Regulations, pagination is: 'page numbers shall be visibly clear of the text'. Inserting a page number is very simple in Word. From the toolbar, just click on 'Insert' then in the 'Header & Footer' section, select 'Page Number' to reveal some options. In most cases, page numbers will be positioned on the bottom right of the page, but you can choose another location.
 
+[Word for Windows](https://support.microsoft.com/en-us/office/insert-page-numbers-9f366518-0500-4b45-903d-987d3827c007#ID0EDBD=Windows)
+
+[Word for MacOS](https://support.microsoft.com/en-us/office/insert-page-numbers-9f366518-0500-4b45-903d-987d3827c007#ID0EDBD=macOS)
+
+However, if you have mirrored the margins, then the page number might end up in the gutter. Ideally, this needs to be on the outer edge. one way to do this is select 'Different Odd & Even Pages' in the toolbar and to manually adjust the number positions.
+
+[Word for Windows](https://support.microsoft.com/en-us/office/create-different-headers-or-footers-for-odd-and-even-pages-c1b99d1a-38b1-40ff-8338-4897b89be2ef)
+
+[Word for MacOS](https://support.microsoft.com/en-us/office/create-different-headers-or-footers-for-odd-and-even-pages-c1b99d1a-38b1-40ff-8338-4897b89be2ef#ID0EDBD=macOS)
+
+Next, click on 'Footer' and select 'Edit Footer'. On page 1 (the odd footer), ensure that the page number is aligned to the right margin. On page 2 (the even footer), click on 'Insert' and  'Page Number' again and ensure that this is aligned to the left margin. Click on 'Close Header & Footer' to view the document. All of the page numbers should now be aligned to the outer edge, avoiding the gutter (inner edge) of each page.
+
+Please note that the default style for page numbers is Calibri (Body) 12 point. If you would like to change this to match the font of the document text, right click on the page number on page 1 and select a new font. Repeat this process for page 2. The changes will be applied to the whole document. 
 
 ### All about section breaks.
 
