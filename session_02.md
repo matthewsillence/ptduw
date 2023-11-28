@@ -6,10 +6,12 @@ In this second session, we will look in more detail at page layout. There are a 
 
 Open the file 'bard_thesis.docx'. On the toolbar, click on 'Layout' then 'Margins' and select 'Custom Margins'. Change the dimensions of the margins as follows:
 
-```- Top: 1.5 cm
+```
+- Top: 1.5 cm
 - Bottom: 1.5 cm
 - Left: 4 cm
-- Right: 1.5 cm```
+- Right: 1.5 cm
+```
 
 Now, click on the 'Multiple Pages' option. If you are printing your document double-sided, then select 'Mirro Margins'. Click on 'OK' to save the new settings. You will notice that the text on page 1 has moved to the right. If you have mirrored the margins, page 2 will have text that has moved to the left. This allows for the 'gutter', which is the extra space on a page that allows for binding.
 
