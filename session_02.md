@@ -57,10 +57,17 @@ Section breaks are also useful for changing other features of pages in a documen
 [Word for Windows and MacOS](https://support.microsoft.com/en-us/office/use-section-breaks-to-change-the-layout-or-formatting-in-one-section-of-your-document-4cdfa638-3ea9-434a-8034-bf1e4274c450)
 
 ### Double-sided printing.
-
+If you have mirrored the margins in your document, you are likely to want to print a document on both sides of the paper. This can be done easily from the 'File' tab then clicking 'Print', and then selecting 'Print on Both Sides' if this feature is available on your printer. If you have landscape pages in your document, it is worth checking how the page number or any headers are displayed. By default, these will display at the top and bottom of the page, but a landscape page is normally bound in portrait orientation, meaning that these will appear at 90 degrees to the rest of the headers and footers.
 
 ## Adding content
 ### Tables.
+Tables are useful for summarising research data. There are two main types of table in Microsoft Word: those which are created within the file itself and those which are linked to Microsoft Excel, and are embedded within the Word file. In this exercise, we will just focus on the first kind. The Excel spreadsheets are more complex, but details can be found on the Microsoft Support pages.
+
+[Word for Windows and MacOS](https://support.microsoft.com/en-us/office/insert-a-chart-from-an-excel-spreadsheet-into-word-0b4d40a5-3544-4dcd-b28f-ba82a9b9f1e1)
+
+To insert a new table, click on 'Insert' on the toolbar, then 'Table' to define the number of cells (rows and columns) you require. In this exercise, we will choose 6 columns and four rows. You will notice that the 'Table Design' tab is automatically selected in the toolbar, which allows you to adjust the appearance of the table and the text within it.
+
+[Word for Windows and MacOS](https://support.microsoft.com/en-us/office/insert-a-table-a138f745-73ef-4879-b99a-2f3d38be612a)
 
 ### Images.
 
