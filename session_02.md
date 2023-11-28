@@ -88,7 +88,13 @@ You should now see a diagram in the text with a small icon on the edge. Clicking
 
 [Word for Windows and MacOS](https://support.microsoft.com/en-us/office/wrap-text-and-move-pictures-in-word-becff26a-d1b9-4b9d-80f8-7e214557ca9f)
 
-### Captions.
+Repeat this procedure to add 'Picture2.png' to page 5, just above the heading 'Challenges and Opportunities' and anchor this in place.
 
+### Captions.
+Any illustrations in a dissertation or thesis require captions, which provides a short description and information where it came from. By default all illustrations in Word are called 'figures', and each time a caption is added, it will be numbered in sequence, starting with 'Figure 1'. To insert a caption, right click on the first illustration on page 4 and click on 'Insert Caption'. In the caption field type '- Diagram showing the main stakeholders in writers' groups. Created by the author, 2023' and then click 'OK' to save. Now, navigate to page 5 and add the following caption: '- Diagram showing the three main writing contexts. Created by the author, 2023' and save the caption. You should now see that both illustrations have descriptions. In Session 3, we will explore how using captions can help with generating a list of illustrations.
+
+[Word for Windows and MacOS](https://support.microsoft.com/en-us/office/add-format-or-delete-captions-in-word-82fa82a4-f0f3-438f-a422-34bb5cef9c81)
+
+You can also apply captions to other objects 
 
 ### Track changes.
