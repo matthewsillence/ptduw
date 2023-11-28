@@ -1,10 +1,9 @@
 # Session 2
 ## Page layout:
 
- 
-So the final part of this demonstration is, I want to insert a landscape page. So I'm going to close the header and footer and just have a look. Yep, this is all fine.  And as I scroll through the thesis, I can see it's all looking fine. But this table, um, I think would do better on a landscape page. Just because it's quite a wide table and it's going to fit into it better than the standard portrait. So to do that, we can put in a section break before and after the table, which will create a section that we can then change the, um, the page layout there. So Layout tab, Breaks, 'Section Break: Next Page'. That's just before the table. Then we'll put in another section break after the table. So it's just this section that we want to change to a landscape page. And we can do that again on the Layout tab, Orientation, instead of Portrait, we choose Landscape. And you'll see now this section that the table's in, which is Section three, is in landscape. And then after it, we go back to portrait. So that is the end of this demonstration. This was the third demonstration of the 'Producing a thesis or dissertation' course. And we've looked at inserting section breaks, um, adding text to the header, adding text and page numbers to the footer, changing the headers and footers in different sections, um, and inserting a landscape page. Thank you.
-
 ### Changing page margins.
+In this second session, we will look in more detail at page layout. There are a number of document settings that are required as part of the the University's Thesis Regulations (RDPD 3). The first concerns page margins, which in the Regulations are defined as follows: 'to allow for printing, where requested by the examiners, the margin on the left-hand side of the page shall be not less than 40mm. Other margins shall be not less than 15mm'. Ideally, you should set the page margins before you write a document, so that you are used to the layout and print preview, but you can adjust margins in an existing document.
+
 
 
 ### Headers, footers and page numbers.
