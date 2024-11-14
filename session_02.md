@@ -106,3 +106,4 @@ All tracked changes in a document are provisional, which means that they need to
 
 [Word for MacOS](https://support.microsoft.com/en-us/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a#TrackChanges=Mac)
 
+[Session 3](https://github.com/matthewsillence/ptduw/blob/main/session_03.md)
