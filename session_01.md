@@ -2,7 +2,7 @@
 
 ## Before you start writing:
 ### The University's thesis regulations.
-The University of East Anglia has [regulations](https://my.uea.ac.uk/divisions/research-and-innovation/postgraduate-research/regulations/rdpd-3-submission-and-presentation-of-theses){:target="_blank"} for the appearance of a research thesis or dissertation. This module will refer to these regulations for a number of activities. Although there is some choice around formatting, you should ensure that your work complies with requirements in Research Degree Policy Document 3 (RDPD 3).
+The University of East Anglia has [regulations](https://my.uea.ac.uk/divisions/research-and-innovation/postgraduate-research/regulations/rdpd-3-submission-and-presentation-of-theses) for the appearance of a research thesis or dissertation. This module will refer to these regulations for a number of activities. Although there is some choice around formatting, you should ensure that your work complies with requirements in Research Degree Policy Document 3 (RDPD 3).
 
 ### Planning your document.
 One long document can be difficult to navigate, slow to search and save, and prone to corruption, particularly if it includes images and diagram. Many students prefer to work in separate files and combine these later in the process. This is the process that we will follow on this module.
