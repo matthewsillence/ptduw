@@ -61,7 +61,7 @@ To delete a file from OneDrive online, you can follow these steps:
 
 [How to Delete Files and Folders in Microsoft OneDrive](https://www.howtogeek.com/750283/how-to-delete-files-and-folders-in-microsoft-onedrive/).
 
-## What is the split-screen 'comapre' feature in Microsoft Word?
+## What is the split-screen 'compare' feature in Microsoft Word?
 
 The compare document version feature in Microsoft Word is a way to compare two versions of a document to see how they differ. To use this feature, you need to open both of the files that you want to compare. Then, on the **Review tab**, in the **Compare** group, click **Compare**. Click **Compare two versions of a document (legal blackline)** or **Compare** in the drop-down list. Under **Original document**, browse for the document that you want to use as the original document. Under **Revised document**, browse for the other document that you want to compare. Click **OK**. The documents will be shown side-by-side along with a list of all changes.
 
