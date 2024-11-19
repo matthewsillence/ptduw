@@ -47,6 +47,8 @@ In a dissertation or thesis, it is likely that you will use several headings. Wo
 ### Numbered headings.
 Although heading styles are numbered, it is the appearance of the heading and not the number that indicates its position in the hierarchy. Using the **Multilevel List** function in the Paragraph group allows the author to add a numbered prefix to the heading. Sub-headings follow this numbering system by adding another number, and so on. For example, the third sub-section under section two would be numbered 2.3. The first section below that sub-heading would be numbered 2.3.1. It is also possible to modify numbered headings. For example, if you would prefer to indicate chapters or sections in your document more explicitly, you can use this option to this as a prefix. For example, 'Chapter 1' or 'Section 1'.
 
+Please note that applying this list version as a heading might lead to the display of different fonts. For example 'Chapter' might default to Times New Roman, while the rest of the heading remains in your defined style, e.g. Calibri Light. To resolve this, place the cursor on 'Chapter', right click and open the floating style toolbar. Select 'Styles' and then 'Apply Style'. In the 'Apply Style' window, click on 'Modify' and change the Font in the 'Formatting' drop-down box, then click 'OK'.
+
 [Word for Windows and MacOS](https://support.microsoft.com/en-us/office/number-your-headings-ce24e028-4cb4-4d4a-bf25-fb2c61fc6585)
 
 [Session 2](https://github.com/matthewsillence/ptduw/blob/main/session_02.md)
