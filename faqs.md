@@ -71,3 +71,10 @@ The compare document version feature in Microsoft Word is a way to compare two v
 [Compare document differences using the legal blackline option.](https://support.microsoft.com/en-us/office/compare-document-differences-using-the-legal-blackline-option-dbfc7351-4022-43a2-a0c4-54d1898702a0).
 
 [Combine document revisions.](https://support.microsoft.com/en-us/office/combine-document-revisions-f8f07f09-4461-4376-b041-89ad67412cfe)
+
+## Does Word's 'track changes' feature work with bibliographic reference management software, like EndNote? ##
+
+Unfotunately most bibliographic reference management software, like EndNote, Zotero and Mendeley, uses **field codes** to tell the programme where to insert a citation from the bibliographic database, and what to update if the details of the reference change, or citations are added or removed at that location. Such changes are unlikely to appear in the **Revisions Pane**.
+
+### Links
+[Hidden code in EndNote - RMIT University Library Subject Guide](https://rmit.libguides.com/ReferenceManagers/endnote-best-practice-mac).
