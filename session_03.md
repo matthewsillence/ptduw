@@ -24,7 +24,7 @@ Repeat this procedure by inserting a cross-reference to Figure 2 just before the
 
 Although cross-references may be unnecessary if your text is close to the first appearance of a figure, if you refer to that same figure later in the document, cross-references can be helpful to jump back to that point.
 
-A final note about cross-references is that, although they are similar to hyperlinks, they are internal links and do not have a default style that makes them visually distinguishable from the rest of the text (i.e. they do not use another colour and are not underlined). This can be changed, but it would need to be done manually.
+A final note about cross-references is that, although they are similar to hyperlinks, they are internal links and do not have a default style that makes them visually distinguishable from the rest of the text (i.e. they do not use another colour and are not underlined). This can be changed, but it would need to be done manually. To follow a link, use 'Ctrl + click' on the figure number on a Windows OS, or 'Cmd + click' on Mac OS. 
 
 [Word for Windows and MacOS](https://support.microsoft.com/en-us/office/create-a-cross-reference-300b208c-e45a-487a-880b-a02767d9774b)
 ### Advice about citing references.
